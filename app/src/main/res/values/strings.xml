@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wiki Image Search</string>
+    <string name="search_here">Search here</string>
+    <string name="wiki_page_image">Wiki Page Image</string>
+</resources>
